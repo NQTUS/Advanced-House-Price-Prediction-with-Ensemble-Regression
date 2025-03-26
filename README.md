@@ -33,11 +33,3 @@ The Ames Housing dataset, compiled by Dean De Cock, contains detailed informatio
 
 ### 4. Prediction
 - Generate predictions on the test set, inverse-transform them (`expm1`), and save them to a submission file (`submission.csv`).
-
-## Requirements
-- Python 3.x
-- Libraries: `pandas`, `numpy`, `scikit-learn`, `xgboost`, `lightgbm`
-
-Install dependencies:
-```bash
-pip install pandas numpy scikit-learn xgboost lightgbm
